@@ -1,9 +1,5 @@
 """
 Title:       gmm.py
-Author:      Sarper Sakmak
-ID:          14008175400
-Section:     2
-Assignment:  CMPE 442 Programming Assignment-3
 Description:
     - Implements the GMM class (EM algorithm) entirely from scratch using NumPy.
     - STEP 1: Initialization via K-Means means + identity-scaled covariances
