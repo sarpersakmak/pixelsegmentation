@@ -1,10 +1,6 @@
 
 """
 Title:       main.py
-Author:      Sarper Sakmak
-ID:          14008175400
-Section:     2
-Assignment:  CMPE 442 Programming Assignment-3
 Description:
     - Entry point that orchestrates the full CMPE 442 Assignment-3 pipeline.
     - STEP 1: Loads all 4 images and extracts pixel feature matrices
