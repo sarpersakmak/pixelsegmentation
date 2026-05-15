@@ -1,9 +1,5 @@
 """
 Title:       image_utils.py
-Author:      Sarper Sakmak
-ID:          14008175400
-Section:     2
-Assignment:  CMPE 442 Programming Assignment-3
 Description:
     - Provides image I/O and segmentation-map utilities for the pipeline.
     - STEP 1: Loads all JPEG/PNG images from a given directory and
