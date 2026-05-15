@@ -1,9 +1,5 @@
 """
 Title:       kmeans.py
-Author:      Sarper Sakmak
-ID:          14008175400
-Section:     2
-Assignment:  CMPE 442 Programming Assignment-3
 Description:
     - Implements the KMeans class entirely from scratch using only NumPy.
     - STEP 1: Centroid initialization via random sampling from the data
